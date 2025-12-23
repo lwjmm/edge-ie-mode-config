@@ -54,7 +54,7 @@ def show_security_notice():
 
   【透明性承诺】
   • 开源脚本，无隐藏行为、无网络请求，可审查/修改源码
-  • https://github.com/lwjmm/edge-ie-mode-config/ie-mode.py   
+  • https://github.com/lwjmm/edge-ie-mode-config/blob/main/ie-mode.py   
 ============================================================
 """
     print(notice)
@@ -509,4 +509,5 @@ def main():
     sys.exit(0)
 
 if __name__ == "__main__":
+
     main()
